@@ -3,3 +3,4 @@ numpy
 Pillow
 streamlit
 tensorflow
+click==8
